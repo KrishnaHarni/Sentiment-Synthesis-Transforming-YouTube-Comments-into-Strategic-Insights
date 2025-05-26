@@ -16,9 +16,6 @@ This project analyzes YouTube video comments to automatically classify them as P
 
 - **Python**
 - **Transformers (Hugging Face)**
-- **Pandas & NumPy**
-- **Matplotlib / Seaborn**
-- **Scikit-learn**
 - **Flask** 
 - **Google Colab**
 
